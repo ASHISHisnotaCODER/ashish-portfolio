@@ -2,12 +2,12 @@
 <div align="center">
 
 ```
-██╗   ██╗ █████╗ ██████╗ ██╗ ██████╗  ██████╗ 
-╚██╗ ██╔╝██╔══██╗██╔══██╗██║██╔════╝ ██╔═══██╗
- ╚████╔╝ ███████║██████╔╝██║██║  ███╗██║   ██║
-  ╚██╔╝  ██╔══██║██╔══██╗██║██║   ██║██║   ██║
-   ██║   ██║  ██║██║  ██║██║╚██████╔╝╚██████╔╝
-   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝ ╚═════╝  ╚═════╝ 
+ ░█████╗░░██████╗██╗░░██╗██╗░██████╗██╗░░██╗
+ ██╔══██╗██╔════╝██║░░██║██║██╔════╝██║░░██║
+ ███████║╚█████╗░███████║██║╚█████╗░███████║
+ ██╔══██║░╚═══██╗██╔══██║██║░╚═══██╗██╔══██║
+ ██║░░██║██████╔╝██║░░██║██║██████╔╝██║░░██║
+ ╚═╝░░╚═╝╚═════╝╚═╝░░╚═╝╚═╝╚═════╝╚═╝░░╚═╝
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12&height=80&section=header&text=Electrical%20Engineering%20%C3%97%20Artificial%20Intelligence&fontSize=20&fontColor=c8ff00&animation=fadeIn&fontAlignY=65" alt="Banner" width="100%"/>
@@ -164,7 +164,7 @@ class AshishKumar:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ASHISHisnotaCODER&theme=dark&background=050a03&border=C8FF00&stroke=C8FF00&ring=C8FF00&fire=00ffaa&currStreakNum=C8FF00&sideNums=d4e8c0&currStreakLabel=00ffaa&sideLabels=d4e8c0&dates=7a9460" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=ASHISHisnotaCODER&theme=dark&background=050a03&border=C8FF00&stroke=C8FF00&ring=C8FF00&fire=00ffaa&currStreakNum=C8FF00&sideNums=d4e8c0&currStreakLabel=00ffaa&sideLabels=d4e8c0&dates=7a9460" alt="GitHub Streak" />
 
 </div>
 
