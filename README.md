@@ -10,7 +10,9 @@
    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝ ╚═════╝  ╚═════╝ 
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3000&pause=800&color=C8FF00&center=true&vCenter=true&width=600&lines=⚡+Electrical+Engineering+%C3%97+AI;🤖+Machine+Learning+Enthusiast;🎯+Computer+Vision+Builder;🌱+Available+for+Projects" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12&height=80&section=header&text=Electrical%20Engineering%20%C3%97%20Artificial%20Intelligence&fontSize=20&fontColor=c8ff00&animation=fadeIn&fontAlignY=65" alt="Banner" width="100%"/>
+
+### ⚡ B.Tech EE Student · 🤖 AI/ML Enthusiast · 🎯 Computer Vision Builder · 🌱 Available for Projects
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-C8FF00?style=for-the-badge&labelColor=050a03&color=C8FF00)](https://ashishisnotacoder.github.io/ashish-portfolio)
 [![GitHub](https://img.shields.io/badge/GitHub-ASHISHisnotaCODER-C8FF00?style=for-the-badge&logo=github&logoColor=C8FF00&labelColor=050a03)](https://github.com/ASHISHisnotaCODER)
