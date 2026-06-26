@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
-<div align="center">
 
+<div align="center">
 ```
  ░█████╗░░██████╗██╗░░██╗██╗░██████╗██╗░░██╗
  ██╔══██╗██╔════╝██║░░██║██║██╔════╝██║░░██║
@@ -10,7 +10,15 @@
  ╚═╝░░╚═╝╚═════╝╚═╝░░╚═╝╚═╝╚═════╝╚═╝░░╚═╝
 ```
 
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12&height=80&section=header&text=Electrical%20Engineering%20%C3%97%20Artificial%20Intelligence&fontSize=20&fontColor=c8ff00&animation=fadeIn&fontAlignY=65" alt="Banner" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=600&color=c8ff00&center=true&width=520&lines=Electrical+Engineer+%E2%9C%8C;AI+%26+Computer+Vision+Builder;Holographic+Portfolio+%E2%9C%A8" alt="Typing Intro"/>
+
+</div>
 
 ### ⚡ B.Tech EE Student · 🤖 AI/ML Enthusiast · 🎯 Computer Vision Builder · 🌱 Available for Projects
 
@@ -19,6 +27,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashish_Kumar-00ffaa?style=for-the-badge&logo=linkedin&logoColor=00ffaa&labelColor=050a03)](https://www.linkedin.com/in/ashish-kumar-642aa1242/)
 [![Email](https://img.shields.io/badge/Email-Ashishx04@gmail.com-00ffaa?style=for-the-badge&logo=gmail&logoColor=00ffaa&labelColor=050a03)](mailto:Ashishx04@gmail.com)
 
+</div>
 </div>
 
 ---
@@ -138,10 +147,12 @@ class AshishKumar:
   "fonts": ["Space Grotesk", "Inter"],
   "features": [
     "Glassmorphism UI",
-    "Animated floating orbs & rings",
-    "Typewriter text animation",
-    "Responsive navbar with blur",
-    "Skill progress bars",
+    "Holographic header (typing + neon particle layer)",
+    "Interactive SVG skill rings with micro-animations",
+    "Magnetic hover micro-interactions (cursor-reactive)",
+    "Liquid depth & parallax layers on scroll",
+    "Auto-updating GitHub stats & activity widgets",
+    "Project cards with smooth hover transforms",
     "Contact form (Formspree)",
     "Downloadable Resume (PDF)"
   ],
